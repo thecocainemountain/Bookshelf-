@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Nicole's persoonlijke boekenbibliotheek",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "thecocainemountain.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "thecocainemountain.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
